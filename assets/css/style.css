@@ -1079,8 +1079,8 @@ a:hover {
 
 .testimonial-box .author-test img {
   margin: 0 auto;
-  height: 9in;
-  width: auto;
+  height: 70%;
+  width: 100%;
 }
 
 .testimonial-box .author {
